@@ -1,0 +1,12 @@
+server:
+  shutdown: immediate
+
+spring:
+  application:
+    name: temporal-workflow-example
+    temporal:
+      host: localhost:7233
+logging:
+  level:
+    org.springframework.data: DEBUG
+
