@@ -1,5 +1,7 @@
 # temporal-workflow-example
 
+Similar example with more functionality can [found here](https://github.com/samitkumarpatel/springboot-with-testcontainer).
+
 This repository contains Temporal workflow examples
 - Customer creation workflow - which needs approval or rejection.
 - Bank transfer workflow
